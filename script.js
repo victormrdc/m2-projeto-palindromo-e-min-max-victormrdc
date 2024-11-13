@@ -9,14 +9,6 @@ function isPalindrome(palavraFrase) {
     return true
 }
 
-/* 
-Esse trecho de código em específico "/\s+/g", quem me ajudou 
-foi o Chatgpt, acredito não ter visto algo sobre isso no conteúdo escrito ou 
-nos vídeos(acredito que seja até propositalmente, para nos fazer buscar por
-conteúdos fora da plataforma), enfim, só estou dizendo por descargo de consciência. 
-(obs: agora eu sei que é usada para identificar e manipular espaços em branco nas strings).
-*/
-
 function arrayMaxMin(array) {
     let min = array[0];
     let max = array[0];
